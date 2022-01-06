@@ -7,6 +7,7 @@ publish_mode: editorial_workflow
 collections:
   - name: "pages"
     label: "Pages"
+    delete: true
     files:
     - label: "Home"
       name: "home"
