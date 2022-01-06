@@ -8,6 +8,7 @@ collections:
   - name: "pages"
     label: "Pages"
     delete: true
+    create: true
     files:
     - label: "Home"
       name: "home"
